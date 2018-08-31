@@ -21,7 +21,7 @@ import (
 	"testing"
 
 	"github.com/liornabat/gnatsd/server"
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/go-nats"
 )
 
 // IMPORTANT: Tests in this file are not executed when running with the -race flag.

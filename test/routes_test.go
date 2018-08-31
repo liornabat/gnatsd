@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/liornabat/gnatsd/server"
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/go-nats"
 )
 
 const clientProtoInfo = 1

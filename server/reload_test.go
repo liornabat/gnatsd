@@ -26,7 +26,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/go-nats"
 )
 
 // Ensure Reload returns an error when attempting to reload a server that did

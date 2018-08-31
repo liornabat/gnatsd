@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/go-nats"
 )
 
 // IMPORTANT: Tests in this file are not executed when running with the -race flag.

@@ -25,7 +25,7 @@ import (
 
 	dbg "runtime/debug"
 
-	"github.com/nats-io/nuid"
+	"github.com/liornabat/nuid"
 )
 
 func stackFatalf(t *testing.T, f string, args ...interface{}) {

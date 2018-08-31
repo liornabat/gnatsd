@@ -30,7 +30,7 @@ import (
 
 	"net"
 
-	"github.com/nats-io/go-nats"
+	"github.com/liornabat/go-nats"
 )
 
 const CLIENT_PORT = -1

@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nats-io/nuid"
+	"github.com/liornabat/nuid"
 )
 
 // Use nuid.

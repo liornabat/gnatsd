@@ -1,0 +1,13 @@
+github.com/liornabat/gnatsd v1.3.0 h1:+5d80klu3QaJgNbdavVBjWJP7cHd11U2CLnRTFM9ICI=
+github.com/liornabat/gnatsd v1.3.0 h1:MzbmC+oMwmVPFkXpC2kHpbemPC7DLcEp6A1NHHd5KQY=
+github.com/liornabat/gnatsd v1.3.0/go.mod h1:Rj4fzvrx1b1MJLk0rFZROKlpsRJE3Sy6wrAuQv78Bq0=
+github.com/liornabat/gnatsd v1.3.0/go.mod h1:nqco77VO78hLCJpIcVfygDP2rPGfsEHkGTUk94uh5DQ=
+github.com/liornabat/nuid v0.0.0-20180316223952-28b996b57a46 h1:s4r57Cm+fMvEv5nQ7zCE3U2DvrUjm+Aph5W47fAAIa0=
+github.com/liornabat/nuid v0.0.0-20180316223952-28b996b57a46/go.mod h1:19wcPz3Ph3q0Jbyiqsd0kePYG7A95tJPxeL+1OSON2c=
+github.com/liornabat/nuid v1.0.0-20180316223952-28b996b57a46/go.mod h1:e2m92LVkwa/Ze9N/O52/6qsJuolTN2oOcJrqrgpllV0=
+github.com/liornabat/nuid v1.0.0 h1:E5hppaUk2KwZKui8UD3dQq3ovH0gqd0cbh48hoipgBY=
+github.com/liornabat/nuid v1.0.0/go.mod h1:e2m92LVkwa/Ze9N/O52/6qsJuolTN2oOcJrqrgpllV0=
+golang.org/x/crypto v0.0.0-20161031180806-9477e0b78b9a h1:Esnda2KnXoH6s+xVTf9zaZg3o4p6d9C25WBNxxDHwOU=
+golang.org/x/crypto v0.0.0-20161031180806-9477e0b78b9a/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
+golang.org/x/sys v0.0.0-20170627012538-f7928cfef4d0 h1:zBqTV7BZW0C9WnFZU5Izl5ZfxL5+qtufgtwXGFU4t7g=
+golang.org/x/sys v0.0.0-20170627012538-f7928cfef4d0/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=

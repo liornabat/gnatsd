@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	nats "github.com/nats-io/go-nats"
+	nats "github.com/liornabat/go-nats"
 )
 
 func checkClosedConns(t *testing.T, s *Server, num int, wait time.Duration) {

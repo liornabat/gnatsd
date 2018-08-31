@@ -4,7 +4,7 @@ go:
 - 1.10.x
 - 1.11
 install:
-- go get github.com/nats-io/go-nats
+- go get github.com/liornabat/go-nats
 - go get github.com/mattn/goveralls
 - go get github.com/wadey/gocovmerge
 - go get -u honnef.co/go/tools/cmd/megacheck
@@ -21,4 +21,4 @@ script:
 - go test -i $EXCLUDE_VENDOR
 - if [[ "$TRAVIS_GO_VERSION" == 1.11 ]]; then ./scripts/cov.sh TRAVIS; else go test -v -race $EXCLUDE_VENDOR; fi
 after_success:
-- if [[ "$TRAVIS_GO_VERSION" == 1.11 ]] && [ "$TRAVIS_TAG" != "" ]; then ghr --owner nats-io --token $GITHUB_TOKEN --draft --replace $TRAVIS_TAG pkg/; fi
+- if [[ "$TRAVIS_GO_VERSION" == 1.11 ]] && [ "$TRAVIS_TAG" != "" ]; then ghr --owner liornabat --token $GITHUB_TOKEN --draft --replace $TRAVIS_TAG pkg/; fi
