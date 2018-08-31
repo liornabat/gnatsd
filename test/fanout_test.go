@@ -20,7 +20,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/nats-io/gnatsd/server"
+	"github.com/liornabat/gnatsd/server"
 	"github.com/nats-io/go-nats"
 )
 

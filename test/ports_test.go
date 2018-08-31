@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/gnatsd/server"
+	"github.com/liornabat/gnatsd/server"
 )
 
 // waits until a calculated list of listeners is resolved or a timeout

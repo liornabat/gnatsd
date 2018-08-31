@@ -22,7 +22,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/nats-io/gnatsd/logger"
+	"github.com/liornabat/gnatsd/logger"
 )
 
 func TestSetLogger(t *testing.T) {

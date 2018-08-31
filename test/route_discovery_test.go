@@ -26,7 +26,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nats-io/gnatsd/server"
+	"github.com/liornabat/gnatsd/server"
 )
 
 func runSeedServer(t *testing.T) (*server.Server, *server.Options) {

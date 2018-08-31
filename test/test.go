@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nats-io/gnatsd/server"
+	"github.com/liornabat/gnatsd/server"
 )
 
 // So we can pass tests and benchmarks..
